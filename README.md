@@ -1,4 +1,4 @@
-# arasgungore.github.io
+# Harika0306.github.io
 
 My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://Harika0306.github.io).
 
@@ -16,5 +16,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Aras Güngöre**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@harika kagithapalli](https://www.linkedin.com/in/harika-kagithapalli-8a4242266)
+* GitHub: [@Harika0306](https://github.com/Harika0306)

@@ -14,7 +14,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Harika Kagithapalli**
 
 * LinkedIn: [@harika kagithapalli](https://www.linkedin.com/in/harika-kagithapalli-8a4242266)
 * GitHub: [@Harika0306](https://github.com/Harika0306)
